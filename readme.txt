@@ -19,3 +19,4 @@ Usage
 Once the plugin is activated it will begin tracking every visit to a post on your site. Add the 'Bamboo Most Read Posts' widget to your chosen sidebar to display a list of your site's most read posts.
 
 Added to test git updates.
+Added at 14:16
