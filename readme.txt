@@ -20,3 +20,4 @@ Once the plugin is activated it will begin tracking every visit to a post on you
 
 Added to test git updates.
 Added at 14:16
+Added at 14:18
